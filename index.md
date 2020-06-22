@@ -23,7 +23,7 @@ Game AI is based on variety of popular algorithms such as A*, Game of Life, Floo
 Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and in allows to build whole content from a scratch. Site incorporates such features like recipe calculator, replacement suggestions and more...<br><br>
 <a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/KjDstNm.png" width="100%"><a><br><br><br>
 
-##### 3. ##### DealFlowBus - Service designed for VC funds, storing, and processing technological investment leads 
+##### 3. DealFlowBus - Service designed for VC funds, storing, and processing technological investment leads 
 ---> More info, screens & repo [Click here](https://github.com/darkonion/DealFlowBus) <br> <br>
 Microservice Architecture, deployed on google cloud, via kubernetes. 5 containers. Fully separated front end builded with Thymeleaf templating engine. Based on real business case and demand from my previous work environment. <br><br>
 <img src="https://i.imgur.com/y51YN7l.png" width="100%"><br><br><br>
