@@ -1,12 +1,12 @@
-## Portfolio Page
+## Portfolio
 
 Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you want to discover my github repositories directly. 
-
+<br><br>
 
 ### Technology Stack
 
 Java 8, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, MySQL, JUnit, Quarkus
-
+<br>
 
 ### My Projects:
 
