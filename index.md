@@ -3,6 +3,11 @@
 Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you want to discover my github repositories directly. 
 
 
+### Technology Stack
+
+Java 8, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, MySQL, JUnit, Quarkus
+
+
 ### My Projects:
 
 
@@ -32,5 +37,12 @@ App utilizes openweathermap.org api and downloads actual weather report in json 
 ---> More info, screens & repo [Click here](https://github.com/darkonion/SortingComparator) <br> <br>
 Program is generating array of random numbers of given size, and depending on user command - sorting, or comparing different sort techniques, with final sorting report. <br><br>
 <img src="https://i.imgur.com/h1B9aFG.png?1" width="100%"><br><br><br>
+
+For more projects please visit my github repository: [Click here](https://github.com/darkonion)
+
+
+### Open Source
+
+Currently i am working in open source e-commerce project, based on new Java framework - Quarkus. The main goal of the project is to create 'wordpress-for-e-store' like service. Link to repo:  [Click here](https://github.com/JavaOpenCommerce)
 
 
