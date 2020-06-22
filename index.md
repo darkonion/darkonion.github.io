@@ -6,40 +6,30 @@ Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you 
 My Projects:
 
 1. GwiezdnaFlota - Pure Java ASCII Roguelike game based on D&D combat engine <br>
----> Screens and repo: [Click here](https://github.com/darkonion/RoguelikeGwiezdnaFlota) <br>
+---> More info, screens & repo: [Click here](https://github.com/darkonion/RoguelikeGwiezdnaFlota) <br>
 ---> Video Gameplay: [Click here](https://youtu.be/FUlfJNOFLCI) <br>
 
+Game AI is based on variety of popular algorithms such as A*, Game of Life, Flood Fill and other. Game allows to develop, desing and implement new levels, items and maps just using simple text editor without any programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
+---> More info, screens & repo [Click here](https://github.com/darkonion/diy-cosmetics-frontend) <br>
+---> Link to website (demo): [diy.biologicznieczynny.pl](http://diy.biologicznieczynny.pl/) <br>
 
-### Markdown
+Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and in allows to build whole content from a scratch. Site incorporates such features like recipe calculator, replacement suggestions and more...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. DealFlowBus - Service designed for VC funds, storing, and processing technological investment leads 
+---> More info, screens & repo [Click here](https://github.com/darkonion/DealFlowBus) <br>
 
-```markdown
-Syntax highlighted code block
+Microservice Architecture, deployed on google cloud, via kubernetes. 5 containers. Fully separated front end builded with Thymeleaf templating engine. Based on real business case and demand from my previous work environment. 
 
-# Header 1
-## Header 2
-### Header 3
+4. Weather report app - Simple commandLine app, that asks for country code and zip code, and then prints current weather report. <br>
+---> More info, screens & repo [Click here](https://github.com/darkonion/WeatherReportApp) <br>
 
-- Bulleted
-- List
+App utilizes openweathermap.org api and downloads actual weather report in json format. Json is then converted into POJO manually (without Jackson/Gson) and printed on a console. App also introduces basic incorrect input protection based on regex.
 
-1. Numbered
-2. List
+5. Sorting Comparator - Simple pure java project showing and comparing performance of 9 different sorting algorithms <br>
+---> More info, screens & repo [Click here](https://github.com/darkonion/SortingComparator) <br>
 
-**Bold** and _Italic_ and `Code` text
+Program is generating array of random numbers of given size, and depending on user command - sorting, or comparing different sort techniques, with final sorting report. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darkonion/darkonion.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
