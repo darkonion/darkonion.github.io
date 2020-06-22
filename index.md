@@ -14,7 +14,7 @@ Java 8, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, MySQL, JUni
 ##### 1. GwiezdnaFlota - Pure Java ASCII Roguelike game based on D&D combat engine <br>
 ---> More info, screens & repo: [Click here](https://github.com/darkonion/RoguelikeGwiezdnaFlota) <br>
 ---> Video Gameplay: [Click here](https://youtu.be/FUlfJNOFLCI) <br> <br>
-Game AI is based on variety of popular algorithms such as A*, Game of Life, Flood Fill and other. Game allows to develop, desing and implement new levels, items and maps just using simple text editor without any programming. <br><br>
+Game AI is based on variety of popular algorithms such as A*, Game of Life, Flood Fill and other. Game allows to develop, design and implement new levels, items and maps just using simple text editor without programming. <br><br>
 <img src="https://i.imgur.com/4zTmxFa.png" width="100%"> <br><br><br>
 
 ##### 2. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
