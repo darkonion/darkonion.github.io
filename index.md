@@ -42,6 +42,7 @@ Program is generating array of random numbers of given size, and depending on us
 
 ### Open Source
 
-Currently i am working in open source e-commerce project, based on new Java framework - Quarkus. The main goal of the project is to create 'wordpress-for-e-store' like service. Link to repo:  [Click here](https://github.com/JavaOpenCommerce)
+Currently i am working in open source e-commerce project, based on new Java framework - Quarkus. The main goal of the project is to create 'wordpress-for-e-store' like service. Link to repo:  [Click here](https://github.com/JavaOpenCommerce) <br><br>
+<center><img src="https://developers.redhat.com/blog/wp-content/uploads/2020/04/quarkus_logo_vertical_rgb_1280px_default.png" width="50%"></center>
 
 
