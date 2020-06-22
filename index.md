@@ -26,7 +26,7 @@ Microservice Architecture, deployed on google cloud, via kubernetes. 5 container
 4. <b>Weather report app</b> - Simple commandLine app, that asks for country code and zip code, and then prints current weather report. <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/WeatherReportApp) <br> <br>
 App utilizes openweathermap.org api and downloads actual weather report in json format. Json is then converted into POJO manually (without Jackson/Gson) and printed on a console. App also introduces basic incorrect input protection based on regex. <br><br>
-<img src="https://i.imgur.com/jZvJPJd.png?1 width="40%"><br><br><br>
+<img src="https://i.imgur.com/jZvJPJd.png?1" width="40%"><br><br><br>
 
 5. <b>Sorting Comparator</b> - Simple pure java project showing and comparing performance of 9 different sorting algorithms <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/SortingComparator) <br> <br>
