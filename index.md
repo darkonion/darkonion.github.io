@@ -21,7 +21,7 @@ Game AI is based on variety of popular algorithms such as A*, Game of Life, Floo
 ---> More info, screens & repo [Click here](https://github.com/darkonion/diy-cosmetics-frontend) <br>
 ---> Link to website (demo): [diy.biologicznieczynny.pl](http://diy.biologicznieczynny.pl/) <br> <br>
 Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and in allows to build whole content from a scratch. Site incorporates such features like recipe calculator, replacement suggestions and more...<br><br>
-<img src="https://i.imgur.com/KjDstNm.png" width="100%"><br><br><br>
+<a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/KjDstNm.png" width="100%"><a><br><br><br>
 
 3. <b>DealFlowBus</b> - Service designed for VC funds, storing, and processing technological investment leads 
 ---> More info, screens & repo [Click here](https://github.com/darkonion/DealFlowBus) <br> <br>
