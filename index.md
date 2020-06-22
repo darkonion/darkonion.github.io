@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/darkonion/darkonion.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you want to discover my github repositories directly. 
+
+
+My Projects:
+
+1. GwiezdnaFlota - Pure Java ASCII Roguelike game based on D&D combat engine <br>
+---> Screens and repo: [Click here](https://github.com/darkonion/RoguelikeGwiezdnaFlota) <br>
+---> Video Gameplay: [Click here](https://youtu.be/FUlfJNOFLCI) <br>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
