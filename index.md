@@ -36,10 +36,9 @@ App utilizes openweathermap.org api and downloads actual weather report in json 
 ##### 5. Sorting Comparator - Simple pure java project showing and comparing performance of 9 different sorting algorithms <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/SortingComparator) <br> <br>
 Program is generating array of random numbers of given size, and depending on user command - sorting, or comparing different sort techniques, with final sorting report. <br><br>
-<img src="https://i.imgur.com/h1B9aFG.png?1" width="100%"><br><br><br><br>
+<img src="https://i.imgur.com/h1B9aFG.png?1" width="100%"><br><br><br>
 
-##### For more projects please visit my github repository: [Click here](https://github.com/darkonion)
-
+##### For more projects please visit my github repository: [Click here](https://github.com/darkonion)<br><br>
 
 ### Open Source
 
