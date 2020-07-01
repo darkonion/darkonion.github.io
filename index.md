@@ -1,3 +1,4 @@
+
 ## Portfolio
 
 Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you want to discover my github repositories directly. 
@@ -11,17 +12,17 @@ Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, MySQL, JUn
 ### My Projects:
 
 
-##### 1. GwiezdnaFlota - Pure Java ASCII Roguelike game based on D&D combat engine <br>
----> More info, screens & repo: [Click here](https://github.com/darkonion/RoguelikeGwiezdnaFlota) <br>
----> Video Gameplay: [Click here](https://youtu.be/FUlfJNOFLCI) <br> <br>
-Game AI is based on variety of popular algorithms such as A*, Game of Life, Flood Fill and other. Game allows to develop, design and implement new levels, items and maps just using simple text editor without programming. <br><br>
-<img src="https://i.imgur.com/D6Qo4qY.png" width="100%"> <br><br><br>
-
-##### 2. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
+##### 1. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/diy-cosmetics-frontend) <br>
 ---> Link to website (demo): [diy.biologicznieczynny.pl](http://diy.biologicznieczynny.pl/) <br> <br>
 Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and in allows to build whole content from a scratch. Site incorporates such features like recipe calculator, replacement suggestions and more...<br><br>
 <a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/1nv0SxZ.png?1" width="100%"><a><br><br><br>
+  
+##### 2. GwiezdnaFlota - Pure Java ASCII Roguelike game based on D&D combat engine <br>
+---> More info, screens & repo: [Click here](https://github.com/darkonion/RoguelikeGwiezdnaFlota) <br>
+---> Video Gameplay: [Click here](https://youtu.be/FUlfJNOFLCI) <br> <br>
+Game AI is based on variety of popular algorithms such as A*, Game of Life, Flood Fill and other. Game allows to develop, design and implement new levels, items and maps just using simple text editor without programming. <br><br>
+<img src="https://i.imgur.com/D6Qo4qY.png" width="100%"> <br><br><br>
 
 ##### 3. DealFlowBus - Service designed for VC funds, storing, and processing technological investment leads 
 ---> More info, screens & repo [Click here](https://github.com/darkonion/DealFlowBus) <br> <br>
