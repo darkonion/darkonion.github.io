@@ -1,4 +1,3 @@
-google_analytics: [UA-169797983-2]
 
 ## Portfolio
 
