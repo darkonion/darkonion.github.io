@@ -15,7 +15,7 @@ Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, MySQL, JUn
 ##### 1. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/diy-cosmetics-frontend) <br>
 ---> Link to website (demo): [diy.biologicznieczynny.pl](http://diy.biologicznieczynny.pl/) <br> <br>
-Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and in allows to build whole content from a scratch. Site incorporates such features like recipe calculator, replacement suggestions and more...<br><br>
+Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and allows to build whole content from a scratch. Site incorporates such features as recipe calculator, replacement suggestions and more...<br><br>
 <a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/1nv0SxZ.png?1" width="100%"><a><br><br><br>
   
 ##### 2. GwiezdnaFlota - Pure Java ASCII Roguelike game based on D&D combat engine <br>
