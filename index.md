@@ -6,7 +6,7 @@ Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you 
 
 ### My Technology Stack
 
-Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, SQL, NOSQL, JUnit5, Quarkus, IntelliJ, Windows/Linux, Git
+Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Selenium, SQL, NOSQL, JUnit5, Quarkus, IntelliJ, Windows/Linux, Git, C (in uControllers)
 <br><br>
 
 ### My Projects:
