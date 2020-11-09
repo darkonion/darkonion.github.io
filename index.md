@@ -12,14 +12,13 @@ Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Kubernetes, SQL, NOSQL
 ### My Projects:
 
 ##### 1. WeatherStation - raspberry pi based weather station <br>
----> More info, screens & repo [Click here](https://github.com/darkonion/WeatherPiApp) <br>
+---> Repo [Click here](https://github.com/darkonion/WeatherPiApp) <br>
 ---> Link to website (demo): [http://80.211.242.104/](http://80.211.242.104/) <br> <br>
 Fully automated weather station based on raspberry pi. Real-time measurements of air quality (PM1, PM2.5, PM10), temperature, pressure, light, humidity. IoT architecture, with main database (postgres) & REST reactive service on cloud. Raspberry Pi is capturing data and sending it to the cloud, where it is stored and processed. Frontend part of system is based on Angular2.<br><br>
 <a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/KYY9PP4.png" width="100%"><a><br><br><br>
 
 ##### 2. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/diy-cosmetics-frontend) <br>
----> Link to website (demo): [diy.biologicznieczynny.pl](http://diy.biologicznieczynny.pl/) <br> <br>
 Service is based od Spring Boot backend with contenerized MySQL database, and Angular frontend. Contenerized in docker and deployed. Service enables full support for crud operation for admin, and allows to build whole content from a scratch. Site incorporates such features as recipe calculator, replacement suggestions and more...<br><br>
 <a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/1nv0SxZ.png?1" width="100%"><a><br><br><br>
   
