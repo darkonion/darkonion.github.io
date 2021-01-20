@@ -43,6 +43,11 @@ App utilizes openweathermap.org api and downloads actual weather report in json 
 Program is generating array of random numbers of given size, and depending on user command - sorting, or comparing different sort techniques, with final sorting report. <br><br>
 <img src="https://i.imgur.com/h1B9aFG.png?1" width="100%"><br><br><br>
 
+### 7. C MIDI driver for integrating guitar amplifiers with MIDI controll systems <br>
+---> More info & repo [Click here](https://github.com/darkonion/MIDI-Amp-Footswitch) <br> <br>
+MIDI driver for Atmega microcontrollers dedicated for guitar amplifiers and other guitar gear to integrate with advanced controll systems. Part of hardware project with dedicated MIDI module.  
+<img src="https://i.imgur.com/SRjAWPt.jpg" width="100%"><br><br><br>
+
 ##### For more projects please visit my github repository: [Click here](https://github.com/darkonion)<br><br>
 
 ### Open Source
@@ -52,6 +57,6 @@ Currently i am working in open source e-commerce project, based on new Java fram
 
 ### Game Dev
 
-Member of 2-person small indie games projec.
+Member of 2-person small indie games project.
 
 
