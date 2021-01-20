@@ -28,25 +28,25 @@ Service is based od Spring Boot backend with contenerized MySQL database, and An
 Game AI is based on variety of popular algorithms such as A*, Game of Life, Flood Fill and other. Game allows to develop, design and implement new levels, items and maps just using simple text editor without programming. <br><br>
 <img src="https://i.imgur.com/D6Qo4qY.png" width="100%"> <br><br><br>
 
-##### 4. DealFlowBus - Service designed for VC funds, storing, and processing technological investment leads 
+##### 4. C MIDI driver for integrating guitar amplifiers with MIDI controll systems <br>
+---> More info & repo [Click here](https://github.com/darkonion/MIDI-Amp-Footswitch) <br> <br>
+MIDI driver for Atmega microcontrollers dedicated for guitar amplifiers and other guitar gear to integrate with advanced controll systems. Part of hardware project with dedicated MIDI module.  
+<img src="https://i.imgur.com/SRjAWPt.jpg" width="40%"><br><br><br>
+
+##### 5. DealFlowBus - Service designed for VC funds, storing, and processing technological investment leads 
 ---> More info, screens & repo [Click here](https://github.com/darkonion/DealFlowBus) <br> <br>
 Microservice Architecture, deployed on google cloud, via kubernetes. 5 containers. Fully separated front end builded with Thymeleaf templating engine. Based on real business case and demand from my previous work environment. <br><br>
 <img src="https://i.imgur.com/y51YN7l.png" width="100%"><br><br><br>
 
-##### 5. Weather report app - Simple commandLine app, that asks for country code and zip code, and then prints current weather report. <br>
+##### 6. Weather report app - Simple commandLine app, that asks for country code and zip code, and then prints current weather report. <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/WeatherReportApp) <br> <br>
 App utilizes openweathermap.org api and downloads actual weather report in json format. Json is then converted into POJO manually (without Jackson/Gson) and printed on a console. App also introduces basic incorrect input protection based on regex. <br><br>
 <img src="https://i.imgur.com/jZvJPJd.png?1" width="100%"><br><br><br>
 
-##### 6. Sorting Comparator - Simple pure java project showing and comparing performance of 9 different sorting algorithms <br>
+##### 7. Sorting Comparator - Simple pure java project showing and comparing performance of 9 different sorting algorithms <br>
 ---> More info, screens & repo [Click here](https://github.com/darkonion/SortingComparator) <br> <br>
 Program is generating array of random numbers of given size, and depending on user command - sorting, or comparing different sort techniques, with final sorting report. <br><br>
 <img src="https://i.imgur.com/h1B9aFG.png?1" width="100%"><br><br><br>
-
-### 7. C MIDI driver for integrating guitar amplifiers with MIDI controll systems <br>
----> More info & repo [Click here](https://github.com/darkonion/MIDI-Amp-Footswitch) <br> <br>
-MIDI driver for Atmega microcontrollers dedicated for guitar amplifiers and other guitar gear to integrate with advanced controll systems. Part of hardware project with dedicated MIDI module.  
-<img src="https://i.imgur.com/SRjAWPt.jpg" width="100%"><br><br><br>
 
 ##### For more projects please visit my github repository: [Click here](https://github.com/darkonion)<br><br>
 
