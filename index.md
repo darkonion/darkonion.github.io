@@ -13,7 +13,7 @@ Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Selenium, SQL, NOSQL, 
 
 ##### 1. WeatherStation - raspberry pi based weather station <br>
 ---> Repo [Click here](https://github.com/darkonion/WeatherPiApp) <br>
----> Link to website (demo): [http://80.211.242.104/](http://80.211.242.104/) <br> <br>
+---> Link to website (demo): [https://weather-pi.eu/](https://weather-pi.eu/) <br> <br>
 Fully automated weather station based on raspberry pi. Real-time measurements of air quality (PM1, PM2.5, PM10), temperature, pressure, light, humidity. IoT architecture, with main database (postgres) & REST reactive service on cloud. Raspberry Pi is capturing data and sending it to the cloud, where it is stored and processed. Frontend part of system is based on Angular2.<br><br>
 <a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/KYY9PP4.png" width="100%"><a><br><br><br>
 
@@ -49,5 +49,9 @@ Program is generating array of random numbers of given size, and depending on us
 
 Currently i am working in open source e-commerce project, based on new Java framework - Quarkus. The main goal of the project is to create 'wordpress-for-e-store' like service. Link to repo:  [Click here](https://github.com/JavaOpenCommerce) <br><br>
 <center><img src="https://developers.redhat.com/blog/wp-content/uploads/2020/04/quarkus_logo_vertical_rgb_1280px_default.png" width="50%"></center>
+
+### Game Dev
+
+Member of 2-person small indie games projec.
 
 
