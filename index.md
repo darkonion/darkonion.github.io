@@ -6,19 +6,19 @@ Welcome to my portfolio page! [Click here](https://github.com/darkonion) if you 
 
 ### My Technology Stack
 
-Java 8+, Spring Framework, Spring Boot, Angular9, Docker, Selenium, SQL, NOSQL, JUnit5, Quarkus, IntelliJ, Windows/Linux, Git, C (in uControllers)
+Java 8+, C# (Unity), Spring Framework, Spring Boot, Angular9, Docker, Selenium, SQL, JUnit5, Quarkus, IntelliJ, Windows/Linux, Git, C (in uControllers)
 <br><br>
 
 ### My Projects:
 
 ##### 1. WeatherStation - raspberry pi based weather station <br>
 ---> Repo [Click here](https://github.com/darkonion/WeatherPiApp) <br>
----> Link to website (demo): [https://weather-pi.eu/](https://weather-pi.eu/) <br> <br>
+---> Link to website: [https://weather-pi.eu/](https://weather-pi.eu/) <br> <br>
 Fully automated weather station based on raspberry pi. Real-time measurements of air quality (PM1, PM2.5, PM10), temperature, pressure, light, humidity. IoT architecture, with main database (postgres) & REST reactive service on cloud. Raspberry Pi is capturing data and sending it to the cloud, where it is stored and processed. Frontend part of system is based on Angular2.<br><br>
-<a href="http://diy.biologicznieczynny.pl"><img src="https://i.imgur.com/KYY9PP4.png" width="100%"><a><br><br><br>
+<a href="https://weather-pi.eu/"><img src="https://i.imgur.com/KYY9PP4.png" width="100%"><a><br><br><br>
   
 ##### 2. WhenTheNightFalls - indie game development project <br>
-Member of 3 person indie game dev team. – unusual, disturbing, 2.5D survival game based on slavic beliefs and mythology with 100% handdrawn graphics. Game is being developed on Unity engine. Responsible for game core and random world generation.
+Member of 3 person indie game dev team. – unusual, disturbing, 2.5D survival game based on slavic beliefs and mythology with 100% handdrawn graphics. Game is being developed on Unity engine. Responsible for game core, random world generation, and AI algorithms.
 <img src="https://i.imgur.com/iAKi0Ki.png" width="100%"><br><br><br>
 
 ##### 3. DiY Biologicznieczynny - DIY cosmetics recipe service made for www.biologicznieczynny.pl beauty&wellness blog <br>
@@ -56,6 +56,8 @@ Program is generating array of random numbers of given size, and depending on us
 
 ### Open Source
 
-Currently i am working in open source e-commerce project, based on new Java framework - Quarkus. The main goal of the project is to create 'wordpress-for-e-store' like service. Link to repo:  [Click here](https://github.com/JavaOpenCommerce) <br><br>
+I am working in open source e-commerce project, based on new Java framework - Quarkus. The main goal of the project is to create 'wordpress-for-e-store' like service. Project is now temporary suspended. Link to repo:  [Click here](https://github.com/JavaOpenCommerce) <br><br>
 <center><img src="https://developers.redhat.com/blog/wp-content/uploads/2020/04/quarkus_logo_vertical_rgb_1280px_default.png" width="50%"></center>
+
+Recently started working in open-source Polish - cryptocurrency project with +100 person on board. 
 
